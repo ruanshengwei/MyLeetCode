@@ -40,6 +40,7 @@ public class Solution {
 
         int x = lengthOfLongestSubstring("abcbd");
 
+        System.out.println(x);
     }
 
     public static int lengthOfLongestSubstring2(String s) {
